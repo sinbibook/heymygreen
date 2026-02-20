@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-02-20T06:49:26.197Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-02-20T06:53:37.172Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
@@ -77,23 +77,23 @@
         "displayOrder": 0,
         "images": [
           {
-            "id": "97dad04a-47ed-40dc-9d7c-f8a9d7f969bb",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771554994679-st59vs4wzbh.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "3d9473d6-bb45-4b85-9a49-ed687fcbe9cf",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771554994680-hvaxiz4o9hc.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "afc8cce8-84c1-4ffa-b240-b7dfa8f3fe55",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771554994679-9wjjo4fbcgd.jpg",
             "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f874a15b-7cca-43be-b410-01a0488e8fca",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771570086222-9uxhvvsxqvv.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "aaf00c74-ec9e-4594-a5c3-187b0db8f611",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771570086222-f8v6locvbe.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           }
@@ -163,27 +163,11 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true
-          }
-        ]
-      },
-      {
-        "id": "e1f32048-39a9-4019-a544-a37c994114b2",
-        "name": "부대시설",
-        "description": "펜션 내 놀이시설, 매점 ",
-        "usageGuide": "[부대시설]\n\n- 관리실 내 놀이시설\n※ 탁구/포켓볼/당구/추억의 오락기/전자다트/보드게임 등(관리실 영업시간 내 무료 이용)\n\n- 관리실 내 매점\n※ 판매 품목: 무항생제 한돈(삼겹살/오겹살/목살/삼각살/토시살/소등심/양갈비 등) 및 쌈채소(재고 보유 시), 커피(아메리카노, 라떼, 티 등), 주류(소주/맥주/토닉워터 등), 생수, 음료수, 안주류, 아이스크림, 가공식품(햇반/라면 등), 세면도구(일회용 칫솔, 면도기 등), 물티슈, 휴지, 모기약, 종이컵, 쓰레기 봉투), 숯, 그릴(석쇠), 장작/반작(50%), 오로라(매직파이어) 등",
-        "displayOrder": 3,
-        "images": [
-          {
-            "id": "621cba06-12d3-4e4b-ae0c-ffb94a5549f8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771554998253-5ybc3vx7w4e.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
           },
           {
-            "id": "07ba79af-3188-4018-b648-5e90a931d722",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771555558251-zn6sg6kgfe.png",
-            "sortOrder": 0,
+            "id": "216ec026-d10c-4360-aa89-02242614a1f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b631ebe6-af8a-44d7-850f-062838834098/main/1771569956756-a653wijmiws.png",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true
           }
@@ -644,8 +628,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "013ff5a6-82a8-4fff-8ff6-9eb5ab23b5c6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_essence/1771553166318-nndxo7pv169.jpg",
+                    "id": "e500d38b-a5cb-4c0b-bf19-e4f36c88c4d2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_essence/1771570384853-ks6v3loe8m.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
@@ -782,7 +766,7 @@
                     }
                   ],
                   "blockId": "6c2b2c20-bfc9-4955-8689-d8e8c1670f02",
-                  "description": "설악산 가까이, 자연과 가장 닿아 있는 공간.\n창밖으로 펼쳐지는 울산바위의 웅장한 풍경.\n계절마다 달라지는 산의 빛을 마주하는 순간.\n자연 속에서 깊어지는 헤이마이그린\n"
+                  "description": "설악산 가까이, 자연과 맞닿은 공간.\n울산바위가 인근에 있어 여행의 설렘을 더합니다.\n계절마다 달라지는 산의 풍경을 가까이에서 느끼는 시간.\n자연 속에서 여유를 더하는 헤이마이그린."
                 },
                 {
                   "title": " ",
