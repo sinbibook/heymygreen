@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-02-20T02:30:15.787Z",
-    "templateType": "full_banner_slider",
+    "version": "1.5.0",
+    "generatedAt": "2026-02-20T03:50:22.856Z",
+    "templateType": "full_banner_slider_flat",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
   },
@@ -75,7 +75,29 @@
         "description": "객실 앞 개별 마당에서 즐기는 개별 바베큐",
         "usageGuide": "[개별바베큐]\n- 이용 장소: 각 객실 앞 개별 야외 테이블 이용\n- 제공 구성: 그릴 + 석쇠 + 착화된 숯을 원하는 시간에 그릴에 넣어드립니다.\n- 이용 요금: 20,000원(2~3인), 25,000원(4인 이상) (1박기준/현장결제)\n※ 바람이 많이 부는 날 등 화재 위험이 있는 날은 제한될 수 있습니다.\n※ 개인 휴대용 가스버너, 숯 등은 사용 금지\n\n[부가정보]\n- 별도 바비큐 텐트 (포크닉룸)\n- 냉난방 가능, 일회용품, 버너 등 비치) 이용 가능(위 숯불비 + 19,000원 추가 시)",
         "displayOrder": 0,
-        "images": []
+        "images": [
+          {
+            "id": "97dad04a-47ed-40dc-9d7c-f8a9d7f969bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771554994679-st59vs4wzbh.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3d9473d6-bb45-4b85-9a49-ed687fcbe9cf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771554994680-hvaxiz4o9hc.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "afc8cce8-84c1-4ffa-b240-b7dfa8f3fe55",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7bb0be7a-1c4a-47c1-aa78-231ddaaf81b5/main/1771554994679-9wjjo4fbcgd.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "b048ce23-06c3-4a34-b5c5-a527f29bf951",
@@ -83,7 +105,43 @@
         "description": "A,B,C동은 애견동반이 가능합니다. ",
         "usageGuide": "[애견동반]\n- 이용 객실: A, B, C, D동\n- 이용 요금: 1마리당 20,000원 (현장결제)\n※ 연박 시에도 1회만 결제\n- 제한 무게: 12kg 이하\n- 제한 마릿수: 최대 3마리까지\n※ 사람 또는 반려견에게 심한 공격성을 보이는 반려견은 입실 불가합니다.\n※ 반려용품 비치(ABCD동에 한함) : 방석, 배변패드/봉투, 식기, 돌돌이, 물티슈, 탈취제, 살균제 등",
         "displayOrder": 1,
-        "images": []
+        "images": [
+          {
+            "id": "81afc229-d2cb-4400-86a4-7cfe01dcb63d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b048ce23-06c3-4a34-b5c5-a527f29bf951/main/1771554996331-uq35ny1rsko.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "23099db7-788f-4cc1-873c-aacfb3de27ba",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b048ce23-06c3-4a34-b5c5-a527f29bf951/main/1771554996331-vr1tqclpmb.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "60c18c2f-fe15-409c-b721-1633596ac204",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b048ce23-06c3-4a34-b5c5-a527f29bf951/main/1771554996330-6ts5ynlci2i.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ed59e3ee-eb08-4b81-99cb-53b36416250e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b048ce23-06c3-4a34-b5c5-a527f29bf951/main/1771554996330-q2alol9nzkc.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "be80bcaa-d102-4c74-ab69-486dd96ccbd0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b048ce23-06c3-4a34-b5c5-a527f29bf951/main/1771554996330-a6flcp1mam.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "b631ebe6-af8a-44d7-850f-062838834098",
@@ -91,7 +149,22 @@
         "description": "개별 마당에서 즐기는 힐링 불멍",
         "usageGuide": "[불멍]\n- 이용 장소: 개별 마당\n- 이용 요금: 장작 5kg 10,000원 / 10kg 18,000원 (1박기준/현장결제)\n- 제공 구성: 장작+화롯대+토치\n※ 셀프 진행\n※ 개인 장작/장비 불가\n※ 강풍, 우천 시 제한 될 수 있으며, 동계 건조기에는 화재 예방 차 저녁 11시 종료 필수",
         "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "id": "5d7ee599-73ea-4b8b-a8f9-34a25ceaf46a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b631ebe6-af8a-44d7-850f-062838834098/main/1771554997498-0g6r0zcg5r1l.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "361c5c7f-af12-4128-8388-edf03fb5d9c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b631ebe6-af8a-44d7-850f-062838834098/main/1771554997498-a4hp2dnlrq.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "e1f32048-39a9-4019-a544-a37c994114b2",
@@ -99,7 +172,22 @@
         "description": "펜션 내 놀이시설, 매점 ",
         "usageGuide": "[부대시설]\n\n- 관리실 내 놀이시설\n※ 탁구/포켓볼/당구/추억의 오락기/전자다트/보드게임 등(관리실 영업시간 내 무료 이용)\n\n- 관리실 내 매점\n※ 판매 품목: 무항생제 한돈(삼겹살/오겹살/목살/삼각살/토시살/소등심/양갈비 등) 및 쌈채소(재고 보유 시), 커피(아메리카노, 라떼, 티 등), 주류(소주/맥주/토닉워터 등), 생수, 음료수, 안주류, 아이스크림, 가공식품(햇반/라면 등), 세면도구(일회용 칫솔, 면도기 등), 물티슈, 휴지, 모기약, 종이컵, 쓰레기 봉투), 숯, 그릴(석쇠), 장작/반작(50%), 오로라(매직파이어) 등",
         "displayOrder": 3,
-        "images": []
+        "images": [
+          {
+            "id": "621cba06-12d3-4e4b-ae0c-ffb94a5549f8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771554998253-5ybc3vx7w4e.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "07ba79af-3188-4018-b648-5e90a931d722",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771555558251-zn6sg6kgfe.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -455,7 +543,15 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "d54f5841-8e84-4c7f-95b5-f2690ceed083",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/logo/1771556018652-o0hor7yw5f.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
@@ -487,9 +583,37 @@
                     "isSelected": true
                   },
                   {
+                    "id": "dc5fdd2e-54a3-498e-85a8-ec61b856deb0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771555895589-whjao6ppzok.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "b09d88cf-efc7-4ed2-a15b-f5c37c291da3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771549067849-w5czz2q44t.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a883a7ea-9042-4b77-88c1-fabcf842e830",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771555895589-9lhshnz7mle.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "7339c06c-2e44-4dc7-8a61-2a898a8da899",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771555895589-z8s8os37syb.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4873663e-7522-4796-9441-7699873dab68",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771555895589-1chq84t7n18.jpg",
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   }
@@ -500,8 +624,8 @@
                 "title": "속초 헤이마이그린",
                 "images": [
                   {
-                    "id": "928cfe79-2137-480f-b3a5-057f5c5400f1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_closing/1770689217456-ltyojonnq9.jpg",
+                    "id": "66b650aa-65d4-42b1-a593-81c912cc766e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_closing/1771555895589-hkina5erue6.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -533,38 +657,38 @@
                 "title": "Preview",
                 "images": [
                   {
-                    "id": "e1816d16-60fa-447d-a24f-313806b78b55",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-3q5m3nd57kd.jpg",
+                    "id": "719cb0f2-a0e7-4db1-a2dd-343bb8613140",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-s1tkxbmf7p.jpg",
                     "sortOrder": 0,
-                    "description": "야외테라스",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "b27a4755-8355-4b61-837d-ca64205fe2e6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-8rupencqo8k.jpg",
-                    "sortOrder": 1,
-                    "description": "야외바베큐",
+                    "description": "프라이빗 독채",
                     "isSelected": true
                   },
                   {
                     "id": "0314e555-1104-4149-ba70-62d10696cf09",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-or1xa9npofd.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "신축객실",
                     "isSelected": true
                   },
                   {
                     "id": "78875e3b-3fc9-41c7-bf81-feca53169af7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-sjbv9how9f.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "애견운동장",
                     "isSelected": true
                   },
                   {
-                    "id": "719cb0f2-a0e7-4db1-a2dd-343bb8613140",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-s1tkxbmf7p.jpg",
+                    "id": "e1816d16-60fa-447d-a24f-313806b78b55",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-3q5m3nd57kd.jpg",
+                    "sortOrder": 3,
+                    "description": "야외테라스",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b27a4755-8355-4b61-837d-ca64205fe2e6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-8rupencqo8k.jpg",
                     "sortOrder": 4,
-                    "description": "프라이빗 독채",
+                    "description": "야외바베큐",
                     "isSelected": true
                   }
                 ],
@@ -574,38 +698,24 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "6373c86b-3f2a-4237-a319-a3d9a5f26318",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-c4qr80edrrw.jpg",
-                    "sortOrder": 0,
-                    "description": "애견운동장",
-                    "isSelected": true
-                  },
-                  {
                     "id": "e2257c53-a641-4654-8483-feb821e91a10",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-ffiecjrkvrb.jpg",
-                    "sortOrder": 1,
-                    "description": "신축객실",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "f925b186-ed2f-4e86-8e55-a06d4e066ff4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-v8h5qagapw.jpg",
-                    "sortOrder": 2,
-                    "description": "야외테라스",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "beac830e-0fb6-4e03-bc73-2732a7479e6a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-paq9ummzr8.jpg",
-                    "sortOrder": 3,
-                    "description": "야외바베큐",
+                    "sortOrder": 0,
+                    "description": "신축 객실의 깨끗하고 쾌적한 공간에서 기분 좋은 휴식을 누려보세요.",
                     "isSelected": true
                   },
                   {
                     "id": "ec3cfcbc-17db-428a-9225-9c1672f4846e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-jybjhn02xin.jpg",
-                    "sortOrder": 4,
-                    "description": "프라이빗 독채",
+                    "sortOrder": 1,
+                    "description": "프라이빗 독채오롯이 우리만을 위한 프라이빗 단독 독채 공간",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "309f3983-eac6-422b-8c09-0d287fc87ad4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771558513116-eg4mp8wetuo.jpg",
+                    "sortOrder": 2,
+                    "description": "드넓은 잔디 애견운동장에서 자유롭게 뛰어노는 시간",
                     "isSelected": true
                   }
                 ]
@@ -627,8 +737,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "3095bf24-d505-4058-9530-f640d7e22c5b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/directions_hero/1771554052547-oqe5du1agqd.jpg",
+                    "id": "10ff0488-79d7-4e74-90ba-bbad34312c93",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/directions_hero/1771554683948-8quapq4297n.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
@@ -741,6 +851,29 @@
           ]
         }
       },
+      "theme": {
+        "font": {
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Chonburi&display=swap",
+            "key": "chonburi",
+            "woff2": null,
+            "family": "Chonburi"
+          },
+          "koMain": {
+            "cdn": null,
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
+          }
+        },
+        "color": null
+      },
       "popup": {
         "popups": [
           {
@@ -765,29 +898,6 @@
             "description": ""
           }
         ]
-      },
-      "theme": {
-        "font": {
-          "koSub": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          },
-          "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Chonburi&display=swap",
-            "key": "chonburi",
-            "woff2": null,
-            "family": "Chonburi"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "imhyemin",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
-            "family": "ImHyeMin"
-          }
-        },
-        "color": null
       },
       "property": {
         "images": [
@@ -1912,7 +2022,6 @@
           ]
         }
       ]
-    },
-    "id": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
+    }
   }
 }
