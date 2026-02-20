@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-02-20T09:38:51.284Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-02-20T10:02:51.222Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
@@ -696,13 +696,6 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "ec3cfcbc-17db-428a-9225-9c1672f4846e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-jybjhn02xin.jpg",
-                    "sortOrder": 0,
-                    "description": "프라이빗 독채, 우리만을 위한 단독 독채 공간",
-                    "isSelected": true
-                  },
-                  {
                     "id": "78c793a4-b253-49db-a452-960d1da797b5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771580325339-pzf5e5pwyo.jpg",
                     "sortOrder": 0,
@@ -832,23 +825,16 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "70108a41-dc3c-4e38-981a-ce5d313a72fe",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/reservation_hero/1771554607177-9vv35iwzxzk.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "0c70eac2-4016-48ce-88da-94bc8c44764f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/reservation_hero/1771580147988-33idsdfsp0v.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d2b62f28-b602-4589-a7f7-ccc05fae56e2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/reservation_hero/1771554607177-276850d509t.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   }
