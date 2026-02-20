@@ -1,1 +1,1 @@
-# heymygreen
+# template-full-banner-slider-flat Template
