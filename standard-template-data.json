@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-02-20T00:43:27.944Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-02-20T02:30:15.787Z",
     "templateType": "full_banner_slider",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
@@ -473,14 +473,28 @@
                 "title": "안녕, 나의 초록 헤이마이그린",
                 "images": [
                   {
-                    "id": "8fa38657-aba1-4b7f-91b6-54c833c44ab3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1770689139510-uv91cz48fw9.jpg",
+                    "id": "aec89a3d-4313-46ba-8f95-e8e17ce5efa7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771549067849-j8xhx3u97d.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "2199474d-ffa5-46ce-9f4c-ef2f42974598",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771549067849-b07qnwsk6sp.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b09d88cf-efc7-4ed2-a15b-f5c37c291da3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_hero/1771549067849-w5czz2q44t.jpg",
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "\n"
+                "description": " "
               },
               "closing": {
                 "title": "속초 헤이마이그린",
@@ -496,80 +510,102 @@
                 "description": "\n"
               },
               "essence": {
-                "title": "미리보기",
+                "title": "설악산의 고요함이 머무는 공간, 헤이마이그린. 자연 속에서 반려견과 함께 뛰어놀 수 있는 여유로운 시간. 신축의 깨끗한 공간에서 프라이빗하고 편안하게 쉬어갑니다. 초록 풍경 속, 감성 스테이.",
                 "images": [
                   {
-                    "id": "335f7519-2857-49b6-a57d-4b6a39194d08",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_essence/1770689217454-zg2nxb3fee8.jpg",
+                    "id": "755cd5b4-f277-40b4-aa78-7222217cebe5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_essence/1771553166318-2fbgicyi1pa.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "e479c61d-6933-4d95-a460-ea636aa9af29",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_essence/1770689217455-6j199re5cwu.jpg",
+                    "id": "013ff5a6-82a8-4fff-8ff6-9eb5ab23b5c6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_essence/1771553166318-nndxo7pv169.jpg",
                     "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "d165fd67-e49c-4714-bd72-98213a0f6723",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_essence/1770689217455-dsepr3esm1.jpg",
-                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "\n"
+                "description": "hey, my green!"
               },
               "gallery": {
-                "title": "",
+                "title": "Preview",
                 "images": [
                   {
-                    "id": "b710760f-cc62-4204-a708-5cda0841ae3e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1770689217455-jkibk8ty34n.jpg",
+                    "id": "e1816d16-60fa-447d-a24f-313806b78b55",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-3q5m3nd57kd.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "야외테라스",
                     "isSelected": true
                   },
                   {
-                    "id": "a7250442-45c8-4af6-bc60-5ff65a5136cc",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1770689217455-gtsma1o064.jpg",
+                    "id": "b27a4755-8355-4b61-837d-ca64205fe2e6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-8rupencqo8k.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "야외바베큐",
                     "isSelected": true
                   },
                   {
-                    "id": "f182533a-73e2-4bb0-9a71-b2c37e2ba5ca",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1770689217455-5locha89pn6.jpg",
+                    "id": "0314e555-1104-4149-ba70-62d10696cf09",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-or1xa9npofd.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "신축객실",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "78875e3b-3fc9-41c7-bf81-feca53169af7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-sjbv9how9f.jpg",
+                    "sortOrder": 3,
+                    "description": "애견운동장",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "719cb0f2-a0e7-4db1-a2dd-343bb8613140",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_gallery/1771553166318-s1tkxbmf7p.jpg",
+                    "sortOrder": 4,
+                    "description": "프라이빗 독채",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "signature": {
                 "title": "",
                 "images": [
                   {
-                    "id": "c506b0b1-8631-4d41-9fd2-2eb389c19ecd",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1770689217455-a1kk04fe1yg.jpg",
+                    "id": "6373c86b-3f2a-4237-a319-a3d9a5f26318",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-c4qr80edrrw.jpg",
                     "sortOrder": 0,
-                    "description": "개별 바베큐&불멍존",
+                    "description": "애견운동장",
                     "isSelected": true
                   },
                   {
-                    "id": "a0be85c2-ea6f-4dce-a6fe-876e8a37b7e0",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1770689217456-e3jqrfi9qq4.jpg",
+                    "id": "e2257c53-a641-4654-8483-feb821e91a10",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-ffiecjrkvrb.jpg",
                     "sortOrder": 1,
-                    "description": "독채",
+                    "description": "신축객실",
                     "isSelected": true
                   },
                   {
-                    "id": "c783f023-0cca-428c-8e95-622d8d6cb688",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1770689217455-czez5sjn08m.jpg",
+                    "id": "f925b186-ed2f-4e86-8e55-a06d4e066ff4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-v8h5qagapw.jpg",
                     "sortOrder": 2,
-                    "description": "모던 인테리어",
+                    "description": "야외테라스",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "beac830e-0fb6-4e03-bc73-2732a7479e6a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-paq9ummzr8.jpg",
+                    "sortOrder": 3,
+                    "description": "야외바베큐",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "ec3cfcbc-17db-428a-9225-9c1672f4846e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/index_signature/1771553166318-jybjhn02xin.jpg",
+                    "sortOrder": 4,
+                    "description": "프라이빗 독채",
                     "isSelected": true
                   }
                 ]
@@ -581,12 +617,27 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "오시는길",
+                "images": [
+                  {
+                    "id": "2c8f7d92-a8f3-4ec5-a51d-6bcfbace0c60",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/directions_hero/1771554052547-f1cuivukq3.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3095bf24-d505-4058-9530-f640d7e22c5b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/directions_hero/1771554052547-oqe5du1agqd.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": "대중교통 이용방법",
+                "description": "🚌 1. 시외/고속버스로 속초 종합버스터미널\n버스터미널 하차 후 택시로 약 5~10분 내외 거리"
               }
             }
           ]
@@ -595,10 +646,65 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "fad090c6-e82f-4d26-923f-73b95a66e820",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/main_hero/1771553875778-jljsm93zuie.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "설악산의 고요함이 머무는 공간, 헤이마이그린. \n자연 속에서 반려견과 함께 뛰어놀 수 있는 여유로운 시간. \n신축의 깨끗한 공간에서 프라이빗하고 편안하게 쉬어갑니다. \n초록 풍경 속, 감성 스테이."
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "f051fef7-21c9-41be-8835-e6d5ec79088c",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/main_about/1771553875778-daekbe292nn.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6c2b2c20-bfc9-4955-8689-d8e8c1670f02"
+                    }
+                  ],
+                  "blockId": "6c2b2c20-bfc9-4955-8689-d8e8c1670f02",
+                  "description": "설악산 가까이, 자연과 가장 닿아 있는 공간.\n창밖으로 펼쳐지는 울산바위의 웅장한 풍경.\n계절마다 달라지는 산의 빛을 마주하는 순간.\n자연 속에서 깊어지는 헤이마이그린\n"
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "ce5119a0-9ffc-4656-9e3d-0a55f44cda22",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/main_about/1771553875778-eern8kct2fj.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "9ab58688-a1f3-4ee8-991a-e51b60d16a78"
+                    }
+                  ],
+                  "blockId": "9ab58688-a1f3-4ee8-991a-e51b60d16a78",
+                  "description": "새로 지어진 공간의 깨끗함이 머무는 순간을 감싸고,\n밝고 쾌적한 공기가 편안함을 더합니다.\n세심하게 완성된 공간에서 느끼는 안락함.\n기분 좋은 하루를 시작하는 특별한 공간"
+                },
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "c12cc936-835f-4879-b820-36060180f24b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/main_about/1771553875778-oh7p0g33p6.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6c17893a-c552-4dc5-a656-865d2edc38be"
+                    }
+                  ],
+                  "blockId": "6c17893a-c552-4dc5-a656-865d2edc38be",
+                  "description": "반려견과 함께 머무는 따뜻한 공간.\n마음껏 뛰어놀 수 있는 전용 운동장이 마련되어 있습니다.\n자유롭게 달리는 아이의 모습에 미소가 번지는 시간.\n사랑하는 반려견과 더 가까워지는 행복한 하루."
+                }
+              ]
             }
           ]
         },
@@ -609,7 +715,22 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "70108a41-dc3c-4e38-981a-ce5d313a72fe",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/reservation_hero/1771554607177-9vv35iwzxzk.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "d2b62f28-b602-4589-a7f7-ccc05fae56e2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/reservation_hero/1771554607177-276850d509t.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
@@ -660,10 +781,10 @@
             "family": "Chonburi"
           },
           "koMain": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
+            "cdn": null,
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
           }
         },
         "color": null
