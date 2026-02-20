@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-02-20T03:50:22.856Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-02-20T06:33:55.984Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
@@ -555,9 +555,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "속초 헤이마이그린 독채",
+      "description": "설악산의 고요함 속에서 반려견과 함께 쉬어가는 속초 헤이마이그린",
+      "keywords": "속초헤이마이그린,설악산근처숙소,속초애견동반펜션,신축펜션,울산바위뷰"
     },
     "socialLinks": {},
     "customFields": {
@@ -872,7 +872,10 @@
             "family": "ImHyeMin"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#EFF6F3",
+          "secondary": "#263B2D"
+        }
       },
       "popup": {
         "popups": [
@@ -2022,6 +2025,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
   }
 }
