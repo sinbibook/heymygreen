@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-03-27T05:11:33.073Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-04-15T03:35:18.096Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
@@ -181,13 +181,6 @@
         "displayOrder": 3,
         "images": [
           {
-            "id": "7606f0e7-9664-4d65-b0ae-5443b1186e98",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-zfz7qet1z89.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "7b3fe068-f139-4fc6-9ffa-1d0b93115dbd",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-jen7iylup8.jpg",
             "sortOrder": 6,
@@ -202,9 +195,23 @@
             "isSelected": true
           },
           {
+            "id": "20838b8a-0109-4f75-b679-b06a538d4320",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-rd4wgcxcfzm.jpeg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
             "id": "476b26eb-daef-4073-ad4b-b2be2e8d3b5d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494286-ud4vhxkdpt.jpg",
             "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "97d08bf9-c983-443e-812f-0f782800cd93",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-m9wmzqda8j.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           },
@@ -216,9 +223,9 @@
             "isSelected": true
           },
           {
-            "id": "20838b8a-0109-4f75-b679-b06a538d4320",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-rd4wgcxcfzm.jpeg",
-            "sortOrder": 7,
+            "id": "7606f0e7-9664-4d65-b0ae-5443b1186e98",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-zfz7qet1z89.jpg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true
           },
@@ -226,13 +233,6 @@
             "id": "0b9c07e4-a5b3-4eb7-920a-ca66554640ad",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-1lfy1qfe8nu.jpg",
             "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "97d08bf9-c983-443e-812f-0f782800cd93",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e1f32048-39a9-4019-a544-a37c994114b2/main/1771924494290-m9wmzqda8j.jpg",
-            "sortOrder": 3,
             "description": "",
             "isSelected": true
           }
@@ -245,13 +245,6 @@
         "usageGuide": "산책로 안내\n숙소 주변으로는 논·밭·과수원을 따라 한적한 시골길 산책이 가능합니다.\n조용한 마을길을 걷다 보면 설악산 전경과 울산바위가 보이는 탁 트인 풍경을 만날 수 있습니다.\n\n[전망 산책코스]\n(성인 기준 도보 왕복 30~40분)\n논과 과수원을 지나 작은 동산에 오르면 설악산 능선과 울산바위가 한눈에 펼쳐집니다.\n특히 일출 시간, 떠오르는 태양이 울산바위를 붉게 물들이는 장관을 감상하실 수 있어 맑은 날 아침 산책을 추천드립니다.\n\n[영랑호 산책코스]\n(성인 기준 도보 왕복 약 1시간 20분)\n논과 밭을 따라 걷다 보면 영랑호 습지생태공원으로 이어집니다.\n일부 구간은 차량 통행이 있으니 산책 시 안전에 유의해주세요.\n\n※ 자세한 길 안내는 체크인 시 문의해주세요. ",
         "displayOrder": 4,
         "images": [
-          {
-            "id": "e556e566-bfcf-4e23-9d55-2987d6bd83ee",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/daf7eddb-fe7a-4a7d-a882-15be997ac0e8/main/1771924496963-1yxtj1tyds5.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
           {
             "id": "fc51306b-54f4-4593-b1c3-d520fe8e9530",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/daf7eddb-fe7a-4a7d-a882-15be997ac0e8/main/1771924496963-kakj3bmdf1k.jpg",
@@ -267,9 +260,32 @@
             "isSelected": true
           },
           {
+            "id": "e556e566-bfcf-4e23-9d55-2987d6bd83ee",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/daf7eddb-fe7a-4a7d-a882-15be997ac0e8/main/1771924496963-1yxtj1tyds5.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
             "id": "b9d0529b-0558-4de1-9e38-69ce940878a3",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/daf7eddb-fe7a-4a7d-a882-15be997ac0e8/main/1771924790723-e5l8z7vruqp.jpg",
-            "sortOrder": 2,
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "dbae42e9-e8b6-4127-97bb-17d527839cc6",
+        "name": "바베큐 세트",
+        "description": "장바구니는 집에 두고 오세요!\n바베큐 파티에 필요한 모든 것, 헤이마이그린에서 다 준비해 드립니다. ",
+        "usageGuide": "[바베큐 세트 판매]\n- 펜션에서 바베큐 세트(2~3인용)를 판매합니다. \n- 금액 : 59,000원\n- 구성 : 한돈 (600g, 삼겹/오겹/목살 중 택1, 삼각/토시살 중 택1), 소시지(320g), 쌈장(2봉), 소금(2봉), 마늘(1봉), 햇반or라면 중 택2, 썰은김치, 쌈채소(상추/깻잎/고추) \n※ 숯/그릴비 별도, 추가 구매 가능",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "3630b013-b36f-4683-88ec-a9984635c7f6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dbae42e9-e8b6-4127-97bb-17d527839cc6/main/1776147780188-9co6tm5scow.jpg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           }
@@ -446,18 +462,35 @@
   "rooms": [
     {
       "id": "7be146ab-d03a-40ff-9495-0a44377beaed",
+      "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
+      "propertyName": "속초 헤이마이그린 독채 펜션",
       "name": "A동(독채,애견동반,프라이빗 마당)",
+      "nameEn": "Building A (Private House)",
       "description": "",
       "roomInfo": "복층 독채형: \n- 1층 : 거실+주방+테라스+화장실1\n- 2층 : 침대룸A(퀸1)",
       "usageGuide": "[인원추가비]\n- 전 객실 동일하게 추가 인원 1인당 20,000원 (연박시 1회만 결제(현장 결제), 침구류 제공)\n※ 36개월 미만 무료입실 (침구 미제공)\n※ 영유아 인원수 포함 / 최대 인원 4인 초과불가",
       "group": null,
       "size": 165.29,
+      "sizePyeong": 50,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -495,6 +528,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "3dd65963-84bf-4940-963d-7d34ad1a86ac",
       "images": [
         {
           "thumbnail": [],
@@ -502,22 +536,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-02-06T08:39:46.075Z",
+      "updatedAt": "2026-02-24T05:41:27.615Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "42e874a9-f8ca-41ed-ad1a-385e5ad104c8",
+      "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
+      "propertyName": "속초 헤이마이그린 독채 펜션",
       "name": "B동(독채,애견동반,프라이빗 마당)",
+      "nameEn": "Building B (Private House)",
       "description": "",
       "roomInfo": "복층 독채형: \n- 1층 : 거실+주방+테라스+화장실1\n- 2층 : 침대룸A(퀸1)",
       "usageGuide": "[인원추가비]\n- 전 객실 동일하게 추가 인원 1인당 20,000원 (연박시 1회만 결제(현장 결제), 침구류 제공)\n※ 36개월 미만 무료입실 (침구 미제공)\n※ 영유아 인원수 포함 / 최대 인원 4인 초과불가",
       "group": null,
       "size": 165.29,
+      "sizePyeong": 50,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -555,6 +610,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "3dd65963-84bf-4940-963d-7d34ad1a86ac",
       "images": [
         {
           "thumbnail": [],
@@ -562,22 +618,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-02-06T08:39:45.983Z",
+      "updatedAt": "2026-02-24T05:41:33.743Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "492a8c6a-de96-4378-9557-e16e116a4523",
+      "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
+      "propertyName": "속초 헤이마이그린 독채 펜션",
       "name": "C동(독채,애견동반,프라이빗 마당)",
+      "nameEn": "Building C (Private House)",
       "description": "",
       "roomInfo": "복층 독채형: \n- 1층 : 거실+주방+테라스+화장실1\n- 2층 : 침대룸A(퀸1)",
       "usageGuide": "[인원추가비]\n- 전 객실 동일하게 추가 인원 1인당 20,000원 (연박시 1회만 결제(현장 결제), 침구류 제공)\n※ 36개월 미만 무료입실 (침구 미제공)\n※ 영유아 인원수 포함 / 최대 인원 4인 초과불가",
       "group": null,
       "size": 165.29,
+      "sizePyeong": 50,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -615,6 +692,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "3dd65963-84bf-4940-963d-7d34ad1a86ac",
       "images": [
         {
           "thumbnail": [],
@@ -622,22 +700,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-02-06T08:39:45.963Z",
+      "updatedAt": "2026-02-24T05:41:38.881Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "285526fe-f91d-4ecd-8beb-7d742338452d",
+      "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
+      "propertyName": "속초 헤이마이그린 독채 펜션",
       "name": "D동(독채,애견동반,프라이빗 마당)",
+      "nameEn": "Building D (Private House)",
       "description": "",
       "roomInfo": "복층 독채형: \n- 1층 : 거실+주방+테라스+화장실1\n- 2층 : 침대룸A(퀸1)",
       "usageGuide": "[인원추가비]\n- 전 객실 동일하게 추가 인원 1인당 20,000원 (연박시 1회만 결제(현장 결제), 침구류 제공)\n※ 36개월 미만 무료입실 (침구 미제공)\n※ 영유아 인원수 포함 / 최대 인원 4인 초과불가",
       "group": null,
       "size": 165.29,
+      "sizePyeong": 50,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -674,6 +773,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "3dd65963-84bf-4940-963d-7d34ad1a86ac",
       "images": [
         {
           "thumbnail": [],
@@ -681,22 +781,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-02-06T08:39:45.979Z",
+      "updatedAt": "2026-02-24T05:41:43.124Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "c6900a35-4c8c-4902-a483-faee80821424",
+      "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
+      "propertyName": "속초 헤이마이그린 독채 펜션",
       "name": "E동(독채,프라이빗 마당) ",
+      "nameEn": "Building E (Private House)",
       "description": "",
       "roomInfo": "복층 독채형: \n- 1층 : 거실+주방+테라스+화장실1\n- 2층 : 침대룸A(퀸1)",
       "usageGuide": "[인원추가비]\n- 전 객실 동일하게 추가 인원 1인당 20,000원 (연박시 1회만 결제(현장 결제), 침구류 제공)\n※ 36개월 미만 무료입실 (침구 미제공)\n※ 영유아 인원수 포함 / 최대 인원 4인 초과불가",
       "group": null,
       "size": 165.29,
+      "sizePyeong": 50,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "N",
+        "barbecueState": "Y",
+        "poolState": "N"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -732,6 +853,7 @@
         "테라스"
       ],
       "status": "active",
+      "bankAccountId": "3dd65963-84bf-4940-963d-7d34ad1a86ac",
       "images": [
         {
           "thumbnail": [],
@@ -739,7 +861,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 5
+      "displayOrder": 5,
+      "createdAt": "2026-02-06T08:39:45.847Z",
+      "updatedAt": "2026-02-24T05:41:48.378Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
   ],
   "homepage": {
@@ -822,6 +948,8 @@
                     "isSelected": true
                   }
                 ],
+                "videos": [],
+                "mediaType": "image",
                 "description": " "
               },
               "closing": {
@@ -835,6 +963,8 @@
                     "isSelected": true
                   }
                 ],
+                "videos": [],
+                "mediaType": "image",
                 "description": "\n"
               },
               "essence": {
@@ -855,6 +985,8 @@
                     "isSelected": true
                   }
                 ],
+                "videos": [],
+                "mediaType": "image",
                 "description": "hey, my green!"
               },
               "gallery": {
@@ -903,6 +1035,8 @@
                     "isSelected": true
                   }
                 ],
+                "videos": [],
+                "mediaType": "image",
                 "description": " "
               },
               "signature": {
@@ -929,7 +1063,9 @@
                     "description": "신축 객실의 깨끗하고 쾌적한 공간에서 기분 좋은 휴식을 누려보세요.",
                     "isSelected": true
                   }
-                ]
+                ],
+                "videos": [],
+                "mediaType": "image"
               }
             }
           ]
@@ -1108,6 +1244,27 @@
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          },
+          {
+            "id": "ebaaac2f-8bbc-4efc-a1eb-7d024e802e14",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "399af6eb-4cc8-4787-bd66-0f203e525232",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fd0c15b-d5bb-4ca7-8706-4c849ebe8830/popup/1776147258314-q0ziyz4ojs.jpg",
+                "sortOrder": 1,
+                "description": "",
+                "isSelected": true,
+                "blockId": "ebaaac2f-8bbc-4efc-a1eb-7d024e802e14"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 1,
             "startDate": null,
             "description": ""
           }
@@ -2236,6 +2393,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
   }
 }
