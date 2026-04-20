@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-04-15T03:35:18.096Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-04-20T01:37:05.584Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
@@ -1392,7 +1392,9 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "속초 헤이마이그린 독채 펜션",
+        "nameEn": "Sokcho Hey My Green Private Pension"
       },
       "roomtypes": [
         {
