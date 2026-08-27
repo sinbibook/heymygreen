@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-08-10T06:43:03.558213439Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-08-27T00:59:25.268158722Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "d3ddf9b6-c693-43a3-ae00-bb8da9486947",
     "homepageId": "6fd0c15b-d5bb-4ca7-8706-4c849ebe8830"
@@ -14,7 +14,9 @@
     "address": "강원특별자치도 속초시 장천3길 123 (장사동) 헤이마이그린",
     "latitude": 38.2147585034945,
     "longitude": 128.545430707119,
-    "contactPhone": "010-8789-4936",
+    "contactPhone": [
+      "010-8789-4936"
+    ],
     "contactEmail": "loginteam@hanmail.net",
     "checkin": "15:00",
     "checkout": "11:00",
